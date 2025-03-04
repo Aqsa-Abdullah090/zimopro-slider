@@ -3,7 +3,7 @@
 
 function Features() {
   return (
-    <div className="lg:pl-12 3xl:pl-16 pl-4 mt-3 3xl:mt-5">
+    <div className="lg:pl-12 3xl:pl-16 pl-4 mt-3 3xl:mt-5 text-[11px] tracking-[1.5px]">
       <div className="grid max-w-[800px] grid-cols-3">
         <div className="ldp_feature_col">
           <Item h="Property Type" p={"3485 sq.ft"} />

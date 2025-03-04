@@ -1,7 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import clsx from "clsx";
 import { LdpResponce } from "@/lib/types";
-import jsonData from "./data.json";
 
 interface Props {
   data: LdpResponce;
@@ -26,7 +25,7 @@ function ListingMedia({ data }: Props) {
           <img
             src={item}
             alt=""
-            className="h-full w-full object-cover scroll-image"
+            className="w-[55vw] h-[60vh] object-cover scroll-image"
           />
         </div>
       ))}
