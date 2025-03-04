@@ -1,20 +1,9 @@
-import { getCurrencySymbol } from "@/lib/currencies";
-import { LdpResponce } from "@/lib/types";
 
-interface Props {
-  data: LdpResponce;
-}
-
-function BuyEntryNow({ data }: Props) {
+function BuyEntryNow() {
   return (
     <div className="buy-entry-now-wrapper">
-      <button className="shiny-cta text__14">
-        <p>
-          <span dir="ltr">
-            {getCurrencySymbol(data.ticket_pricing.default_currency)}
-          </span>
-          {data.ticket_pricing.price} {data.ticket_pricing.default_currency}
-        </p>
+      <button className="shiny-cta text-[10px] 3xl:text-[14px]">
+      <p>£25.00 GBP</p>
         <span>BUY ENTRY NOW</span>
       </button>
     </div>

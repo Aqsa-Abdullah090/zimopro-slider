@@ -1,0 +1,1346 @@
+[
+  {
+    "id": 1,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 2,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£15,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 3,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£12,000,000 GB",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 4,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Brick Street, Mayfair, London, W1J, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 5,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 6,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£15,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 7,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 8,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 9,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 10,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 11,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 12,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 13,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 14,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 15,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 16,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 17,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 18,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 19,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 20,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 21,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 22,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 23,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 24,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 25,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 26,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 27,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 28,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 29,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 30,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 31,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 32,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 33,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 34,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 35,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 36,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 37,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 38,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 39,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 40,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 41,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 42,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 43,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 44,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 45,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 46,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 47,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 48,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 49,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 50,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 51,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 52,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 53,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 54,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 55,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 56,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 57,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 58,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 59,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 60,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 61,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 62,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 63,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM",
+    "city": "London"
+  },
+  {
+    "id": 64,
+    "thumbnail": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F1.png?alt=media&token=ad1d9ceb-5f0a-4f46-9a26-f4014c6b6d02",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F2.png?alt=media&token=d1ef2f56-f3be-46cc-80bd-60fdee4bafe6",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F3.png?alt=media&token=f3018214-821d-4182-9728-2e81d234c106",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F4.png?alt=media&token=ed013751-34d6-46f4-b310-1e04dff34bea",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2F400%2F5.png?alt=media&token=317f94d1-ba5f-4d38-9a6b-86c472cb26c3"
+    ],
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172597.jpg?alt=media&token=13ab46d1-559a-4af3-ac19-2f3f287555c7",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F24342.jpg?alt=media&token=cd6fb8c0-8044-4015-96f0-d18c921d4151",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F424221.jpg?alt=media&token=a27feb88-e64e-4a1b-bcee-bd5a222b63a3",
+      "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2F454353.jpg?alt=media&token=4810b3e3-dea0-488e-aa60-fabd60ac027d"
+    ],
+    "amount": "£5,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM",
+    "city": "London"
+  }
+]

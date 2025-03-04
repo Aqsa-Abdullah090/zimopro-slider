@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Sotheby",
+    "image": "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F1.jpg?alt=media&token=80193e66-1165-47d7-919e-4325e09f4072",
+    "amount": "£8,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Sotherbys.svg",
+    "address": "SHELTON STREET, COVENT GARDEN, London, WC2H, UNITED KINGDOM"
+  },
+  {
+    "id": 2,
+    "name": "Savills",
+    "image": "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2.jpg?alt=media&token=29dc4415-98ff-48e0-b05a-a19e96e8a0f8",
+    "amount": "£15,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Savills.svg",
+    "address": "Buckingham Gate, Westminster, London, SW1E, UNITED KINGDOM"
+  },
+  {
+    "id": 3,
+    "name": "Barnes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F3.jpg?alt=media&token=9e9f8386-c4fd-4faf-bfb3-aeddde6c9dd0",
+    "amount": "£12,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Barnes_IR.svg",
+    "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London, SW1X, UNITED KINGDOM"
+  },
+  {
+    "id": 4,
+    "name": "ColdWell Banker",
+    "image": "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F4.jpg?alt=media&token=f2f7af2c-32f1-4deb-a97c-3a4eb4558bc8",
+    "amount": "£7,500,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/CB.svg",
+    "address": "Brick Street, Mayfair, London, W1J, UNITED KINGDOM"
+  },
+  {
+    "id": 5,
+    "name": "Christies",
+    "image": "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F5.jpg?alt=media&token=fbf83bff-c56b-4aa2-9052-ae005d020d00",
+    "amount": "£9,875,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/Christies_IRE.svg",
+    "address": "Addison Road, Holland Park, W14, UNITED KINGDOM"
+  },
+  {
+    "id": 6,
+    "name": "Engel & Volkers",
+    "image": "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F6.jpg?alt=media&token=5887e5ba-8e70-4d5e-b918-20d8ca711965",
+    "amount": "$13,000,000 USD",
+    "agent_logo": "/assets/temp/agents_logos/E&V.svg",
+    "address": "Washington Street, New York, NY, 10013, UNITED STATES"
+  },
+  {
+    "id": 7,
+    "name": "Fine Country",
+    "image": "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F7.jpg?alt=media&token=7eea60ed-1e4a-43b7-8166-e3c6b89c7f3d",
+    "amount": "$7,500,000 USD",
+    "agent_logo": "/assets/temp/agents_logos/F&C.svg",
+    "address": "South Flagler House, West Palm Beach, Florida, 33401, UNITED STATES"
+  },
+  {
+    "id": 8,
+    "name": "Fine Country",
+    "image": "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F8.jpg?alt=media&token=461dbf39-513c-4c51-86aa-7c5b475ace1d",
+    "amount": "£30,000,000 GBP",
+    "agent_logo": "/assets/temp/agents_logos/John_Taylor.svg",
+    "address": "Signature Villas, Palm Jumeirah, DUBAI, UAE"
+  }
+]

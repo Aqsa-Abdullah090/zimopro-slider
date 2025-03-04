@@ -1,12 +1,8 @@
-import { LdpResponce } from "@/lib/types";
 import clsx from "clsx";
 
-interface Props {
-  data: LdpResponce;
-}
 
 /* eslint-disable @next/next/no-img-element */
-function Address({ data }: Props) {
+function Address() {
   return (
     <div
       className={clsx(
@@ -15,12 +11,12 @@ function Address({ data }: Props) {
         "mt-8 lg:mt-[unset]"
       )}
     >
-      <img src={data.flag_url} className="h-3 lg:h-6" alt="" />
-      <p>{data.address_line_1}</p>
-      <p>{data.address_line_2}</p>
-      <p>{data.city}</p>
-      <p>{data.postal_code}</p>
-      <p>{data.country_name}</p>
+      <img src="https://firebasestorage.googleapis.com/v0/b/zimo-b9759.appspot.com/o/zimo%2Fcategories%2F1701925788521.png?alt=media&token=e639c433-2a76-40a2-a31f-9d1d9684d7f2" className="h-3 lg:h-6" alt="" />
+      <p>Regent Street</p>
+      <p>The Lloyd’s Building</p>
+      <p>London</p>
+      <p>WC2N</p>
+      <p>United Kingdom</p>
     </div>
   );
 }

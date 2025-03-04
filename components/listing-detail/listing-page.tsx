@@ -2,7 +2,6 @@
 import Address from "./address";
 import Description from "./description";
 import Footer from "./footer";
-import MiniMap from "./mini-map";
 import ScrollProgress from "./scroll-progress";
 import ListingMedia from "./listing-media";
 import Features from "./features";
@@ -27,17 +26,17 @@ function ListingPage({ data }: Props) {
         <div className="flex-shrink-0 hero-text-content mb-8 lg:mb-0">
           <Hero data={data} />
           <div className="mt-8 lg:mt-0">
-            <Description data={data} />
-            <Features data={data.details} />
+            <Description />
+            <Features />
           </div>
         </div>
-        <ListingMedia data={data} />
-        <MiniMap data={data} black={true} />
+        <ListingMedia data={data ?? { images: [] }} />
+
       </div>
 
       <ScrollProgress />
-      <Address data={data} />
-      <Footer data={data} />
+      <Address />
+      <Footer />
     </div>
   );
 }

@@ -4,7 +4,6 @@ import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
 import { useEffect, useRef } from "react";
 import ListingPage from "./listing-page";
-import useThemeContext from "./useThemeContext";
 import { LdpResponce } from "@/lib/types";
 
 interface Props {
@@ -14,7 +13,6 @@ interface Props {
 function Desktop({ data }: Props) {
   const containerRef = useRef<HTMLDivElement>(null);
   const scrollingRef = useRef(0);
-  const { theme } = useThemeContext();
 
   useGSAP(
     () => {
@@ -205,8 +203,7 @@ function Desktop({ data }: Props) {
   return (
     <div
       className={clsx(
-        "listing__detail__page",
-        theme === "dark" ? "bg-black text-white" : "bg-white text-black"
+        "listing__detail__page"
       )}
       ref={containerRef}
     >

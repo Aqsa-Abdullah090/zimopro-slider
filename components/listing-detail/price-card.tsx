@@ -1,9 +1,7 @@
 import clsx from "clsx";
 import BuyEntryNow from "./buy-entry-now";
-import Loaded from "./loaded";
 import dynamic from "next/dynamic";
 import { LdpResponce } from "@/lib/types";
-import { getCurrencySymbol } from "@/lib/currencies";
 
 const Countdown = dynamic(() => import("./countdown"), {
   ssr: false,
@@ -24,14 +22,13 @@ function PriceCard({ data }: Props) {
           )}
         >
           <p className="tracking-[5px] 3xl:tracking-[6px]">
-            <span dir="ltr">{getCurrencySymbol(data.currency)}</span>
-            {data.price}
+            <span dir="ltr">$</span>
+            989809
           </p>{" "}
-          <p>{data.currency}</p>
+          <p>USD</p>
         </div>
-        <BuyEntryNow data={data} />
-        <Countdown expiry={new Date(data.expiry_date)} />
-        <Loaded number={parseInt(data.completion_percentage)} />
+        <BuyEntryNow />
+        <Countdown />
       </div>
     </div>
   );

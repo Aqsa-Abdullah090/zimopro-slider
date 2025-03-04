@@ -1,33 +1,43 @@
 "use client";
-import ThemeProvider from "@/components/listing-detail/theme-context";
-import { isFixedVisibleReducer } from "@/store/featues/navbar.slice";
 import { useGSAP } from "@gsap/react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
 import Lenis from "@studio-freight/lenis"; // ✅ Correct import
 import dynamic from "next/dynamic";
-import Head from "next/head";
 import { useEffect } from "react";
-import { useDispatch } from "react-redux";
 import { useRouter } from "next/navigation"; // ✅ Fix for Next.js 13+
 
 const Ldp = dynamic(() => import("@/components/listing-detail/ldp"), {
   ssr: false,
 });
 
+
+
 gsap.registerPlugin(useGSAP, ScrollTrigger);
 
 function Page() {
-  const dispatch = useDispatch();
   const router = useRouter();
+
+  const images = [
+    "https://firebasestorage.googleapis.com/v0/b/zimopro-7df3c.appspot.com/o/testing-images%2Fbackground_carousel%2F2400%2FZP172594.jpg?alt=media&token=0faf3bf5-71c0-4d99-9fd2-7248411ad332",
+    "./assets/2.png",
+    "./assets/3.png",
+    "./assets/4.png",
+    "./assets/1.png",
+    "./assets/2.png",
+    "./assets/3.png",
+    "./assets/4.png",
+    "./assets/1.png",
+    "./assets/2.png",
+    "./assets/3.png",
+    "./assets/4.png",
+  ];
 
   useEffect(() => {
     document.body.classList.add("hide-scrollbar");
-    dispatch(isFixedVisibleReducer(true));
 
     return () => {
       document.body.classList.remove("hide-scrollbar");
-      dispatch(isFixedVisibleReducer(false));
     };
   }, []);
 
@@ -47,11 +57,7 @@ function Page() {
     };
   }, []);
 
-  return (
-    <ThemeProvider>
-      {router && <Ldp />}
-    </ThemeProvider>
-  );
+  return <>{router && <Ldp data={{ images }} />}</>;
 }
 
 export default Page;

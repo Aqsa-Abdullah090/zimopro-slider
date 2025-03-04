@@ -1,50 +1,58 @@
-import { formatNumber2Digit } from "@/lib/helpers";
-import moment from "moment";
-import { useTimer } from "react-timer-hook";
-import useThemeContext from "./useThemeContext";
-import clsx from "clsx";
+"use client";
+import React, { useState, useEffect } from "react";
 
-function Countdown({ expiry }: { expiry: Date }) {
-  const { days, hours, minutes, seconds } = useTimer({
-    expiryTimestamp: expiry,
-  });
+interface TimeLeft {
+  days: string;
+  hours: string;
+  minutes: string;
+  seconds: string;
+}
+
+function Countdown() {
+  const targetDate: Date = new Date("2024-12-31T00:00:00Z");
+
+  const calculateTimeLeft = (): TimeLeft => {
+    const now: Date = new Date();
+    const difference: number = targetDate.getTime() - now.getTime();
+
+    if (difference <= 0) {
+      return { days: "00", hours: "00", minutes: "00", seconds: "00" };
+    }
+
+    const formatNumber = (num: number): string => String(num).padStart(2, "0");
+
+    return {
+      days: formatNumber(Math.floor(difference / (1000 * 60 * 60 * 24))),
+      hours: formatNumber(Math.floor((difference / (1000 * 60 * 60)) % 24)),
+      minutes: formatNumber(Math.floor((difference / 1000 / 60) % 60)),
+      seconds: formatNumber(Math.floor((difference / 1000) % 60)),
+    };
+  };
+
+  const [timeLeft, setTimeLeft] = useState<TimeLeft>(calculateTimeLeft());
+
+  useEffect(() => {
+    const timer: NodeJS.Timeout = setInterval(() => {
+      setTimeLeft(calculateTimeLeft());
+    }, 1000);
+
+    return () => clearInterval(timer);
+  }, []);
 
   return (
-    <div className="uppercase flex items-center justify-between w-full mx-auto relative">
-      <CountdownItem value={days} unit="day(s)" />
-      <Border />
-      <CountdownItem value={hours} unit="hour(s)" />
-      <Border />
-      <CountdownItem value={minutes} unit="minute(s)" />
-      <Border />
-      <CountdownItem value={seconds} unit="second(s)" />
+    <div className="uppercase flex items-center justify-center gap-4 relative">
+      {["day(s)", "hour(s)", "minute(s)", "second(s)"].map((unit, index) => {
+        const values: string[] = [timeLeft.days, timeLeft.hours, timeLeft.minutes, timeLeft.seconds];
+        return (
+          <div key={index} className="flex flex-col gap-1 items-center relative">
+            <span className="text-[31px] 3xl:text-[40px] tracking-[3px] leading-[0.7]">{values[index]}</span>
+            <span className="text-[5.5px] 3xl:text-[8px] tracking-[1px] 3xl:tracking-[1.1px]">{unit}</span>
+            {index < 3 && <div className="w-[1px] h-[85%] bg-current absolute bottom-0.5 -right-1.5"></div>}
+          </div>
+        );
+      })}
     </div>
   );
 }
+
 export default Countdown;
-
-interface CProps {
-  value: any;
-  unit: string;
-}
-
-const CountdownItem = ({ value, unit }: Readonly<CProps>) => (
-  <div className="flex flex-col gap-2 items-center font-light w-12 3xl:w-16">
-    <span className="text__45 tracking-[3px] 3xl:tracking-[4px] leading-[0.7]">
-      {formatNumber2Digit(value)}
-    </span>
-    <span className="text__7 tracking-[1px] 3xl:tracking-[1.1px]">{unit}</span>
-  </div>
-);
-
-const Border = () => {
-  const { theme } = useThemeContext();
-  return (
-    <div
-      className={clsx(
-        "h-full w-[1px] self-end",
-        theme === "dark" ? "bg-white" : "bg-black"
-      )}
-    />
-  );
-};
