@@ -1,23 +1,28 @@
 import { useTheme } from "@/context/theme-context"; // Import the theme context
 import Heart from "./heart";
+import clsx from "clsx"; // Ensure clsx is imported
 
 function HeaderBtns() {
   const { theme, toggleTheme } = useTheme(); // Use theme from context
 
   return (
-    <div className="flex items-center gap-2 z-50">
+    <div className="flex items-center gap-5 z-50">
       <Heart />
       <button>
         <img
           src="/assets/icons/share.svg"
-          className="h-[20px] 3xl:h-[30px]"
+          className={clsx("h-[20px] 3xl:h-[30px]", {
+            "invert": theme === "light", // Apply invert class in dark mode
+          })}
           alt="Share"
         />
       </button>
       <button>
         <img
           src="/assets/icons/cam.svg"
-          className="h-[20px] 3xl:h-[30px]"
+          className={clsx("h-[20px] 3xl:h-[30px]", {
+            "invert": theme === "light", // Apply invert class in dark mode
+          })}
           alt="Camera"
         />
       </button>
@@ -35,3 +40,4 @@ function HeaderBtns() {
 }
 
 export default HeaderBtns;
+

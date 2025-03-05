@@ -1,8 +1,9 @@
 interface Props {
-  className: string;
+  className?: string;
+  strokeColor?: string;
 }
 
-function LeftArrow({ className }: Readonly<Props>) {
+function LeftArrow({ className, strokeColor = "black" }: Readonly<Props>) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -10,10 +11,9 @@ function LeftArrow({ className }: Readonly<Props>) {
       className={className}
     >
       <path
-        id="Path_39328"
-        data-name="Path 39328"
         d="M74.805,384.151l4-4-4-4"
         transform="translate(-74.098 -375.444)"
+        stroke={strokeColor} // Dynamically setting stroke color
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth={1}
@@ -22,4 +22,6 @@ function LeftArrow({ className }: Readonly<Props>) {
     </svg>
   );
 }
+
 export default LeftArrow;
+

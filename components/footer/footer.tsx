@@ -2,13 +2,14 @@
 import LeftArrow from "../svgs/left-arrow";
 import MiceSvg from "../svgs/mice-svg";
 import FooterPricing from "./footer-pricing";
-import "./footer.scss"
+import "./footer.scss";
+import { useTheme } from "@/context/theme-context"; // Import theme context
 
 function Footer() {
+  const { theme } = useTheme(); // Get theme from context
+
   return (
-    <footer
-      className="text-[7px] 3xl:text-[12px] uppercase mt-4 lg:mt-auto relative w-full flex gap-8 mb-6 lg:mb-4 2xl:mb-6 3xl:mb-8 px-4 lg:px-12"
-    >
+    <footer className="text-[7px] 3xl:text-[12px] uppercase mt-4 lg:mt-auto relative w-full flex gap-8 mb-6 lg:mb-4 2xl:mb-6 3xl:mb-8 px-4 lg:px-12">
       <div className="flex flex-wrap lg:flex-nowrap gap-1 lg:gap-3 items-center">
         <a href="#">real estate</a>
         <LeftArrowWrapper />
@@ -30,7 +31,7 @@ function Footer() {
         />
         <div className="scroll__animation">
           <div className="mouse">
-            <MiceSvg fill="#fff" />
+            <MiceSvg fill={theme === "dark" ? "#fff" : "#000"} />
           </div>
         </div>
         <img
@@ -46,9 +47,10 @@ function Footer() {
     </footer>
   );
 }
+
 export default Footer;
 
 const LeftArrowWrapper = () => {
-  return <LeftArrow className="h-2 3xl:h-3 stroke-white" />;
+  const { theme } = useTheme(); // Get theme context
+  return <LeftArrow className="h-2 3xl:h-3" strokeColor={theme === "light" ? "black" : "white"} />;
 };
-

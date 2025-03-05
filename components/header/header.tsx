@@ -2,12 +2,13 @@
 import clsx from "clsx";
 import ForwardArrowSvg from "../svgs/forward_arrow_svg";
 import HeaderBtns from "./header-btns";
+import { useTheme } from "@/context/theme-context"; // Import theme context
 
 function Header() {
-
+  const { theme } = useTheme(); // Get theme from context
 
   const handleBackClick = () => {
-    console.log("back")
+    console.log("back");
   };
 
   return (
@@ -16,7 +17,12 @@ function Header() {
         onClick={handleBackClick}
         className="flex items-center justify-between gap-2 lg:gap-4 group w-max"
       >
-        <ForwardArrowSvg className="h-[9px] 3xl:h-[11px] -scale-x-[1] fill-white" />
+        <ForwardArrowSvg
+          className={clsx("h-[9px] 3xl:h-[11px] -scale-x-100", {
+            "fill-white": theme === "dark",
+            "fill-black": theme === "light",
+          })}
+        />
         <p className="uppercase text-[9px] opacity-25 group-hover:opacity-100">
           back
         </p>
@@ -28,5 +34,7 @@ function Header() {
     </header>
   );
 }
+
 export default Header;
+
 
