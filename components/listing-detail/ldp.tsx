@@ -10,8 +10,9 @@ function Ldp({ data }: LdpProps) {
   const { theme } = useTheme(); // Get the theme from context
 
   return (
-    <div className={`tracking-[0.8px] lg:tracking-[1.2px] 3xl:tracking-[2px] 
+    <div className={`tracking-[0.8px] lg:tracking-[1.2px] 3xl:tracking-[2px] hide-scrollbar
       ${theme === "dark" ? "bg-black text-white" : "bg-white text-black"}`}
+      style={{ overflowY: "scroll", scrollbarWidth: "none", msOverflowStyle: "none" }}
     >
       <MiniNavProvider />
       <Desktop data={data} />

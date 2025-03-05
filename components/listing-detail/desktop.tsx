@@ -207,7 +207,9 @@ function Desktop({ data }: Props) {
       )}
       ref={containerRef}
     >
-      <main className="h-auto lg:h-dvh hide-scrollbar scrollable-container">
+      <main className="h-auto lg:h-dvh hide-scrollbar scrollable-container "
+       style={{ overflowY: "scroll", scrollbarWidth: "none", msOverflowStyle: "none" }}
+       >
         <ListingPage data={data} />
       </main>
     </div>
