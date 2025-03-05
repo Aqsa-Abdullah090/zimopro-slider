@@ -13,7 +13,7 @@ function Description() {
           in a prime location with all modern amenities. A beautiful property
           located in a prime location with all modern amenities. A beautiful
           property located in a prime location with all modern ame...</p>
-      <button className="uppercase mt-1 text-[11px] text-black/25 hover:text-black">
+      <button className="uppercase mt-1 text-white/25 hover:text-white">
         view full description
       </button>
     </div>

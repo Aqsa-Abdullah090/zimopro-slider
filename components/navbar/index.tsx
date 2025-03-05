@@ -26,7 +26,7 @@ const Navbar = ({ page }: { page: string }) => {
           // "text-white fill-white"
           "bg-transparent",
           navbarColor === NAV_BEHEIVIOURS.transparentBg && !reelsPage
-            ? "text-white fill-white"
+            ? "text-black fill-white"
             : "",
           navbarColor === NAV_BEHEIVIOURS.solidBg && !reelsPage
             ? "text-white fill-white"

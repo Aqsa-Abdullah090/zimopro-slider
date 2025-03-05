@@ -12,12 +12,6 @@ function Footer() {
         <a href="#">real estate</a>
         <LeftArrowWrapper />
         <a href="#">country name</a>
-
-        {/* {data.region_state && (
-          <>
-            <LeftArrowWrapper /> <a href="#">{data.region_state}</a>
-          </>
-        )} */}
         <LeftArrowWrapper />
         <a href="#">city</a>
         <LeftArrowWrapper />

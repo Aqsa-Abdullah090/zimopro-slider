@@ -150,11 +150,11 @@ function Desktop({ data }: Props) {
 
       footerAddressTl
         .to(".address", {
-          marginLeft: 48,
+          marginLeft: 40,
           duration: 0.8,
         })
         .to(".footer-pricing", {
-          left: "0vw",
+          left: "2vw",
           opacity: 1,
           duration: 1.8,
         });

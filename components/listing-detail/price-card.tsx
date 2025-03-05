@@ -1,7 +1,8 @@
 import clsx from "clsx";
-import BuyEntryNow from "./buy-entry-now";
+import BuyEntryNow from "./button/buy-entry-now";
 import dynamic from "next/dynamic";
 import { LdpResponce } from "@/lib/types";
+import Loaded from "./loaded";
 
 const Countdown = dynamic(() => import("./countdown"), {
   ssr: false,
@@ -17,18 +18,22 @@ function PriceCard({ data }: Props) {
       <div className="mx-auto lg:mx-[unset] w-[230px] 3xl:w-[300px] flex gap-3 lg:gap-[unset] flex-col items-center lg:justify-between h-full">
         <div
           className={clsx(
-            "text__30 flex justify-between w-full leading-[0.7]",
+            "text-[23px] flex justify-between w-full leading-[0.7]",
             "tracking-[3px] 3xl:tracking-[4px]"
           )}
         >
-          <p className="tracking-[5px] 3xl:tracking-[6px]">
-            <span dir="ltr">$</span>
-            989809
-          </p>{" "}
-          <p>USD</p>
+          <p className="tracking-[5px] 3xl:tracking-[6px]">£355,767</p>
+          <p>GBP</p>
         </div>
         <BuyEntryNow />
         <Countdown />
+        {/* Progress Bar */}
+        <div className="w-full">
+          <div className="h-[2px] bg-white/25">
+            <div className="h-full bg-golden" style={{ width: "40%" }}></div>
+          </div>
+          <p className="text-[10px] pt-[1.5px]">0%</p>
+        </div>
       </div>
     </div>
   );

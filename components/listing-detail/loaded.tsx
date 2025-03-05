@@ -12,7 +12,7 @@ function Loaded() {
       >
         <div className="h-full bg-golden" style={{ width: 0 + "%" }} />
       </div>
-      <p className="text__14">0%</p>
+      <p className="text-[11px] 3xl:text-[13px]">0%</p>
     </div>
   );
 }
