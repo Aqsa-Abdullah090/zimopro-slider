@@ -1,9 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import dynamic from "next/dynamic";
-import BuyEntryNow from "./button/buy-entry-now";
-import Loaded from "./loaded";
-
-const Countdown = dynamic(() => import("./countdown"), {
+import BuyEntryNow from "../button/buy-entry-now";
+const Countdown = dynamic(() => import("../listing-detail/countdown"), {
   ssr: false,
 });
 

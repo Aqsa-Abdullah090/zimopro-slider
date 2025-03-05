@@ -1,13 +1,13 @@
 /* eslint-disable @next/next/no-img-element */
-import Address from "./address";
-import Description from "./description";
-import Footer from "./footer";
+import Address from "../footer/address";
+import Description from "../heroSection/description";
+import Footer from "../footer/footer";
 import ScrollProgress from "./scroll-progress";
-import ListingMedia from "./listing-media";
-import Features from "./features";
-import Header from "./header";
+import ListingMedia from "../heroSection/listing-media";
+import Features from "../heroSection/features";
+import Header from "../header/header";
 import clsx from "clsx";
-import Hero from "./hero";
+import Hero from "../heroSection/hero";
 import { LdpResponce } from "@/lib/types";
 
 interface Props {

@@ -16,8 +16,8 @@ function Header() {
         onClick={handleBackClick}
         className="flex items-center justify-between gap-2 lg:gap-4 group w-max"
       >
-        <ForwardArrowSvg className="h-[9px] 3xl:h-[11px] -scale-x-[1]" />
-        <p className="uppercase text__12 opacity-25 group-hover:opacity-100">
+        <ForwardArrowSvg className="h-[9px] 3xl:h-[11px] -scale-x-[1] fill-white" />
+        <p className="uppercase text-[9px] opacity-25 group-hover:opacity-100">
           back
         </p>
       </button>

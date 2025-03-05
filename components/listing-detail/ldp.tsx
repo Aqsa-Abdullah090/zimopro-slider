@@ -1,5 +1,5 @@
 import Desktop from "./desktop";
-import MiniNavProvider from "./mini-nav-provider";
+import MiniNavProvider from "../navbar/mini-nav-provider";
 
 interface LdpProps {
   data: any; 

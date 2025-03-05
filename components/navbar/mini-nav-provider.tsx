@@ -1,4 +1,4 @@
-import MiniNav from "../navbar/mini-nav";
+import MiniNav from "./mini-nav";
 
 function MiniNavProvider() {
   return <MiniNav page="home" />;

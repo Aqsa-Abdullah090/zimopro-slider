@@ -25,7 +25,7 @@ const RightNavItems = ({
       >
         <ZigProSell className="fill-inherit" />
       </div>
-      <UserSvg className="w-auto h-[16.67px] lg:h-[23.08px] 3xl:h-[30px] flex-shrink-0 z-10 fill-inherit" />
+      <UserSvg className="w-auto h-[16.67px] lg:h-[23.08px] 3xl:h-[30px] flex-shrink-0 z-10 fill-white" />
       <div className="z-10">
         <img
           src="/assets/temp/uk-flag.png"

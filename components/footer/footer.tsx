@@ -2,6 +2,7 @@
 import LeftArrow from "../svgs/left-arrow";
 import MiceSvg from "../svgs/mice-svg";
 import FooterPricing from "./footer-pricing";
+import "./footer.scss"
 
 function Footer() {
   return (

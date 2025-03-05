@@ -1,10 +1,9 @@
 import clsx from "clsx";
-import BuyEntryNow from "./button/buy-entry-now";
+import BuyEntryNow from "../button/buy-entry-now";
 import dynamic from "next/dynamic";
 import { LdpResponce } from "@/lib/types";
-import Loaded from "./loaded";
 
-const Countdown = dynamic(() => import("./countdown"), {
+const Countdown = dynamic(() => import("../listing-detail/countdown"), {
   ssr: false,
 });
 

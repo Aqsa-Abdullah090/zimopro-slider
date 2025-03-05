@@ -5,24 +5,7 @@ import clsx from "clsx";
 
 const CenterNavItems = () => {
   const searchParams = useSearchParams();
-  const pathname = usePathname();
-  const router = useRouter();
-
-  function handleClick(term: string) {
-    const formattedTerm = term.replaceAll(" ", "-");
-    const params = new URLSearchParams(searchParams);
-    const inReelsPage = pathname.includes("reels");
-    if (inReelsPage) {
-      if (formattedTerm) {
-        params.set("type", formattedTerm);
-      } else {
-        params.delete("type");
-      }
-      router.replace(`${pathname}?${params.toString()}`);
-    } else {
-      router.push(`/beta/reels?type=${formattedTerm}`);
-    }
-  }
+ 
 
   return (
     <>
@@ -30,9 +13,8 @@ const CenterNavItems = () => {
         {links.map((link) => (
           <li
             key={link}
-            onClick={() => handleClick(link)}
             className={clsx(
-              "uppercase  base__font__size tracking_2  whitespace-nowrap",
+              "uppercase text-[9.23px] tracking-[3px] whitespace-nowrap opacity-50",
               searchParams.get("type")?.toString() === link.replaceAll(" ", "-")
                 ? "opacity-100 cursor-pointer"
                 : "opacity_hover_animation"

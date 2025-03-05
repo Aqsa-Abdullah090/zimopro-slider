@@ -86,7 +86,7 @@ const MiniNav: React.FC<MiniNavProps> = ({ page }) => {
               )}
             </AnimatePresence>
           </div>
-          <div className="absolute inset-0 left-1/2 flex items-center justify-center -translate-x-1/2 overflow-hidden w-[85vw] 4xl:w-[88vw]">
+          <div className="absolute inset-0 left-1/2 flex items-center pb-6 justify-center -translate-x-1/2 overflow-hidden w-[85vw] 4xl:w-[88vw]">
             <div className={clsx("duration-700", expanded ? "translate-x-0 delay-0" : "-translate-x-[80vw] delay-[1200ms]")}>
               <CenterNavItems />
             </div>
