@@ -101,5 +101,3 @@ const MiniNav: React.FC<MiniNavProps> = ({ page }) => {
 };
 
 export default MiniNav;
-
-

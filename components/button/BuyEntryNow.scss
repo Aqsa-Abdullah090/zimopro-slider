@@ -26,11 +26,21 @@
   inherits: false;
 }
 .buy-entry-now-wrapper {
-  --shiny-cta-bg: #000000;
-  --shiny-cta-bg-subtle: #1a1818;
-  --shiny-cta-fg: #ffffff;
-  --shiny-cta-highlight: #be9f56;
-  --shiny-cta-highlight-subtle: #be9f76;
+  &.dark {
+    --shiny-cta-bg: #000000;
+    --shiny-cta-bg-subtle: #1a1818;
+    --shiny-cta-fg: #ffffff;
+    --shiny-cta-highlight: #be9f56;
+    --shiny-cta-highlight-subtle: #be9f76;
+  }
+
+  &.light {
+    --shiny-cta-bg: #ffffff;
+    --shiny-cta-bg-subtle: #d6d6d6;
+    --shiny-cta-fg: #000000;
+    --shiny-cta-highlight: #ffcc00;
+    --shiny-cta-highlight-subtle: #ffdb4d;
+  }
 
   .shiny-cta {
     --animation: gradient-angle linear infinite;
@@ -45,7 +55,6 @@
     outline-offset: 4px;
     padding: 1.25rem 1.5rem;
     font-family: inherit;
-    // font-size: 14px;
     line-height: 1.2;
     display: flex;
     align-items: center;
@@ -65,6 +74,7 @@
         )
         border-box;
     box-shadow: inset 0 0 0 1px var(--shiny-cta-bg-subtle);
+  
 
     &::before,
     &::after,

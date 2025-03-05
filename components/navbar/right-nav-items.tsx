@@ -1,8 +1,8 @@
-/* eslint-disable @next/next/no-img-element */
 import UserSvg from "@/components/svgs/user-svg";
 import ZigProSell from "@/components/svgs/zig-pro-sell-svg";
 import clsx from "clsx";
 import React from "react";
+import { useTheme } from "@/context/theme-context"; // Import theme context
 
 const RightNavItems = ({
   variant,
@@ -11,6 +11,8 @@ const RightNavItems = ({
   variant: string;
   expanded?: boolean;
 }) => {
+  const { theme } = useTheme(); // Get theme from context
+
   return (
     <>
       <div
@@ -25,7 +27,13 @@ const RightNavItems = ({
       >
         <ZigProSell className="fill-inherit" />
       </div>
-      <UserSvg className="w-auto h-[16.67px] lg:h-[23.08px] 3xl:h-[30px] flex-shrink-0 z-10 fill-white" />
+      {/* Apply theme-based fill color */}
+      <UserSvg
+        className={clsx(
+          "w-auto h-[16.67px] lg:h-[23.08px] 3xl:h-[30px] flex-shrink-0 z-10",
+          theme === "light" ? "fill-black" : "fill-white" // Change fill color based on theme
+        )}
+      />
       <div className="z-10">
         <img
           src="/assets/temp/uk-flag.png"
@@ -38,3 +46,4 @@ const RightNavItems = ({
 };
 
 export default RightNavItems;
+
