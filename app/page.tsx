@@ -2,7 +2,6 @@
 import { useGSAP } from "@gsap/react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
-import Lenis from "@studio-freight/lenis"; // ✅ Correct import
 import dynamic from "next/dynamic";
 import { useEffect } from "react";
 import { useRouter } from "next/navigation"; // ✅ Fix for Next.js 13+
@@ -38,22 +37,6 @@ function Page() {
 
     return () => {
       document.body.classList.remove("hide-scrollbar");
-    };
-  }, []);
-
-  useEffect(() => {
-    const lenis = new Lenis({
-      smooth: true,
-    });
-
-    function raf(time: number) {
-      lenis.raf(time);
-      requestAnimationFrame(raf);
-    }
-    requestAnimationFrame(raf);
-
-    return () => {
-      lenis.destroy();
     };
   }, []);
 
