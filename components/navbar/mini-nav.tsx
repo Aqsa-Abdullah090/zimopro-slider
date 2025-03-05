@@ -58,7 +58,7 @@ const MiniNav: React.FC<MiniNavProps> = ({ page }) => {
   }, [isHovered]);
 
   return (
-    <div className="h-20 3xl:h-28 fixed top-0 left-0 w-full z-10 flex justify-center items-start group">
+    <div className="h-14 3xl:h-28 fixed top-0 left-0 w-full z-10 flex justify-center items-start group">
       <header
         className={clsx(
           "transition-all ease-in-out w-[161px] lg:w-[267px] 3xl:w-[361px] hover:w-full overflow-hidden hover:-ml-[1px] group-hover:opacity-100",
@@ -86,7 +86,7 @@ const MiniNav: React.FC<MiniNavProps> = ({ page }) => {
               )}
             </AnimatePresence>
           </div>
-          <div className="absolute inset-0 left-1/2 flex items-center pb-6 justify-center -translate-x-1/2 overflow-hidden w-[85vw] 4xl:w-[88vw]">
+          <div className="absolute inset-0 left-1/2 flex items-center justify-center -translate-x-1/2 overflow-hidden w-[85vw] 4xl:w-[88vw]">
             <div className={clsx("duration-700", expanded ? "translate-x-0 delay-0" : "-translate-x-[80vw] delay-[1200ms]")}>
               <CenterNavItems />
             </div>
