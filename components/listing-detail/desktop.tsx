@@ -23,7 +23,7 @@ function Desktop({ data }: Props) {
           trigger: ".scrollable-container",
           scrub: 3, // Medium speed for better control
           pin: true,
-          end: "+=5500", // Isko kam karna hoga taake zyada na scroll ho
+          end: "+=6000", // Isko kam karna hoga taake zyada na scroll ho
         }
         
       });

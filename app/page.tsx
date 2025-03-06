@@ -33,12 +33,23 @@ function Page() {
   ];
 
   useEffect(() => {
-    document.body.classList.add("hide-scrollbar");
-
+    document.body.style.overflow = "auto"; // Allow scrolling
+    document.documentElement.style.overflow = "auto";
+  
+    document.body.style.scrollbarWidth = "none"; // Firefox
+    document.documentElement.style.scrollbarWidth = "none";
+  
+    (document.body.style as any).msOverflowStyle = "none"; // ✅ Fix for TypeScript
+    (document.documentElement.style as any).msOverflowStyle = "none"; 
+  
     return () => {
-      document.body.classList.remove("hide-scrollbar");
+      document.body.style.overflow = "auto"; // Restore scrolling on unmount
+      document.documentElement.style.overflow = "auto";
     };
   }, []);
+  
+  
+  
 
   return (
     <ThemeProvider>
