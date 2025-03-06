@@ -21,10 +21,11 @@ function Desktop({ data }: Props) {
         ease: "none",
         scrollTrigger: {
           trigger: ".scrollable-container",
-          scrub: 0.1,
+          scrub: 3, // Medium speed for better control
           pin: true,
-          end: "+=2500",
-        },
+          end: "+=5500", // Isko kam karna hoga taake zyada na scroll ho
+        }
+        
       });
       // scroll progress
       gsap.to(".scroll-progressbar", {
@@ -36,8 +37,8 @@ function Desktop({ data }: Props) {
           markers: false,
         },
         width: "100%",
-        duration: 1,
-        ease: "none",
+        duration: 3,
+        ease: "power2.out",
       });
       // fade the opacity of content
       gsap.to(".hero-text-content", {
@@ -177,7 +178,7 @@ function Desktop({ data }: Props) {
       // Apply the blur based on the scroll speed using GSAP
       gsap.to(elements, {
         filter: `blur(${Math.min(scrollSpeed / 10, 5)}px)`,
-        duration: 0.1,
+        duration: 0.3,
       });
 
       clearTimeout(blurTimeout);
@@ -207,7 +208,7 @@ function Desktop({ data }: Props) {
       ref={containerRef}
     >
       <main className="h-auto lg:h-dvh hide-scrollbar scrollable-container "
-       style={{ overflowY: "scroll", scrollbarWidth: "none", msOverflowStyle: "none" }}
+  
        >
         <ListingPage data={data} />
       </main>

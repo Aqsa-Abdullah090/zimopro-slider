@@ -6,6 +6,7 @@ import dynamic from "next/dynamic";
 import { useEffect } from "react";
 import { useRouter } from "next/navigation"; // ✅ Fix for Next.js 13+
 import { ThemeProvider } from "@/context/theme-context"; // Import the ThemeProvider
+import "./globals.css";
 
 const Ldp = dynamic(() => import("@/components/listing-detail/ldp"), {
   ssr: false,

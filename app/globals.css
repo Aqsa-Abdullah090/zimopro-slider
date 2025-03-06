@@ -32,3 +32,8 @@ html {
 img {
   -webkit-user-drag: none;
 }
+
+.scrollable-container {
+  scroll-behavior: smooth;
+}
+
