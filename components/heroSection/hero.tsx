@@ -1,10 +1,9 @@
 import PriceCard from "./price-card";
-import { LdpResponce } from "@/lib/types";
 import clsx from "clsx";
 import { useTheme } from "@/context/theme-context"; // Import theme context
 
 interface Props {
-  data: LdpResponce;
+  data: any;
 }
 
 /* eslint-disable @next/next/no-img-element */

@@ -1,9 +1,8 @@
 /* eslint-disable @next/next/no-img-element */
 import clsx from "clsx";
-import { LdpResponce } from "@/lib/types";
 
 interface Props {
-  data: LdpResponce;
+  data: any;
 }
 
 
