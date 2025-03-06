@@ -12,7 +12,7 @@ function Header() {
   };
 
   return (
-    <header className="lg:pl-12 3xl:pl-16 px-4 flex flex-col mb-2 3xl:mb-4 w-full lg:pr-8 3xl:pr-12 mt-[8vh] lg:mt-[6vh] 2xl:mt-[8vh] 3xl:mt-[12vh]">
+    <header className="lg:pl-12 2xl:pl-16 px-4 flex flex-col mb-2 2xl:mb-4 w-full lg:pr-8 2xl:pr-12 mt-[8vh] lg:mt-[6vh] 2xl:mt-[12vh]">
       <button
         onClick={handleBackClick}
         className="flex items-center justify-between gap-2 lg:gap-4 group w-max"

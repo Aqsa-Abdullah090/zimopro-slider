@@ -6,7 +6,7 @@ function Address() {
   return (
     <div
       className={clsx(
-        "address flex items-center text-[7px] 3xl:text-[14px] w-max ml-auto mr-auto lg:mt-auto",
+        "address flex items-center text-[7px] 2xl:text-[12px] w-max ml-auto mr-auto lg:mt-auto",
         "px-2 lg:px-0 flex-wrap lg:flex-nowrap gap-1.5 lg:gap-4",
         "mt-8 lg:mt-[unset]"
       )}

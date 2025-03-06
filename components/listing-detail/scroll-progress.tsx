@@ -7,7 +7,7 @@ function ScrollProgress() {
   return (
     <div
       className={clsx(
-        "w-[600px] ml-auto h-[2px] absolute bottom-36 right-10 hidden lg:block",
+        "w-[600px] ml-auto h-[2px] absolute bottom-36 right-10 2xl:right-50 hidden lg:block",
         theme === "light" ? "bg-gray-600/50" : "bg-white/25"
       )}
     >

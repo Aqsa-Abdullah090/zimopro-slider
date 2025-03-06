@@ -154,7 +154,7 @@ function Desktop({ data }: Props) {
           duration: 0.8,
         })
         .to(".footer-pricing", {
-          left: "2vw",
+          left: "4vw",
           opacity: 1,
           duration: 1.8,
         });

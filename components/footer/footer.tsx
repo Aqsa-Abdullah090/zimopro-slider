@@ -7,7 +7,7 @@ import "./footer.scss"
 function Footer() {
   return (
     <footer
-      className="text-[7px] 3xl:text-[12px] uppercase mt-4 lg:mt-auto relative w-full flex gap-8 mb-6 lg:mb-4 2xl:mb-6 3xl:mb-8 px-4 lg:px-12"
+      className="text-[7px] 2xl:text-[12px] uppercase mt-4 lg:mt-auto relative w-full flex gap-8 mb-6 lg:mb-4 2xl:mb-6 3xl:mb-8 px-4 lg:px-12"
     >
       <div className="flex flex-wrap lg:flex-nowrap gap-1 lg:gap-3 items-center">
         <a href="#">real estate</a>
@@ -22,10 +22,10 @@ function Footer() {
       </div>
 
       {/* mouse animation part */}
-      <div className="absolute right-8 3xl:right-12 bottom-4 3xl:bottom-8 hidden lg:flex items-center gap-5 z-[100]">
+      <div className="absolute right-8 2xl:right-12 bottom-4 2xl:bottom-8 hidden lg:flex items-center gap-5 z-[100]">
         <img
           src="/assets/icons/left-arrow.svg"
-          className="h-[18px] 3xl:h-[25px] scroll-arrow-left opacity-25 transition-all duration-200 mt-2 3xl:mt-3.5"
+          className="h-[18px] 2xl:h-[25px] scroll-arrow-left opacity-25 transition-all duration-200 mt-2 2xl:mt-3.5"
           alt=""
         />
         <div className="scroll__animation">
@@ -35,7 +35,7 @@ function Footer() {
         </div>
         <img
           src="/assets/icons/right-arrow.svg"
-          className="h-[18px] 3xl:h-[25px] scroll-arrow-right transition-all duration-200 mt-2 3xl:mt-3.5"
+          className="h-[18px] 2xl:h-[25px] scroll-arrow-right transition-all duration-200 mt-2 2xl:mt-3.5"
           alt=""
         />
       </div>

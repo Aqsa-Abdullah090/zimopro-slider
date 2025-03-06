@@ -25,13 +25,13 @@ function FooterPricing() {
       {/* The divider with theme-based color */}
       <div
         className={clsx(
-          "h-full w-[1px] 3xl:w-[2px]",
+          "h-full w-[1px] 2xl:w-[2px]",
           theme === "light" ? "bg-gray-400" : "bg-white"
         )}
       />
 
-      <div className="flex flex-col justify-between w-[210px] 3xl:w-[300px]">
-        <div className="text-[23px] flex justify-between leading-[0.7] tracking-[3px] 3xl:tracking-[4px]">
+      <div className="flex flex-col justify-between w-[210px] 2xl:w-[300px]">
+        <div className="text-[23px] flex justify-between leading-[0.7] tracking-[3px] 2xl:tracking-[4px]">
           <p className="tracking-[5px] 3xl:tracking-[6px]">£355,767</p>
           <p>GBP</p>
         </div>

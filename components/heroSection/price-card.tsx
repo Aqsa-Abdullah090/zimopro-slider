@@ -16,11 +16,11 @@ function PriceCard({ data }: Props) {
   const { theme } = useTheme(); // Get theme from context
 
   return (
-    <div className="lg:px-12 3xl:px-16 price-card">
-      <div className="mx-auto lg:mx-[unset] w-[230px] 3xl:w-[300px] flex gap-3 lg:gap-[unset] flex-col items-center lg:justify-between h-full">
+    <div className="lg:px-12 2xl:px-16 price-card">
+      <div className="mx-auto lg:mx-[unset] w-[230px] 2xl:w-[300px] flex gap-3 lg:gap-[unset] flex-col items-center lg:justify-between h-full">
         <div
           className={clsx(
-            "text-[23px] 3xl:text-[30px] flex justify-between w-full leading-[0.7]",
+            "text-[23px] 2xl:text-[30px] flex justify-between w-full leading-[0.7]",
             "tracking-[3px] 3xl:tracking-[4px]"
           )}
         >
@@ -39,7 +39,7 @@ function PriceCard({ data }: Props) {
           >
             <div className="h-full bg-golden" style={{ width: "40%" }}></div>
           </div>
-          <p className="text-[10px] pt-[1.5px]">0%</p>
+          <p className="text-[10px] 2xl:text-[15px] pt-[1.5px]">0%</p>
         </div>
       </div>
     </div>
