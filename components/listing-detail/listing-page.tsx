@@ -8,10 +8,9 @@ import Features from "../heroSection/features";
 import Header from "../header/header";
 import clsx from "clsx";
 import Hero from "../heroSection/hero";
-import { LdpResponce } from "@/lib/types";
 
 interface Props {
-  data: LdpResponce;
+  data: any;
 }
 
 function ListingPage({ data }: Props) {

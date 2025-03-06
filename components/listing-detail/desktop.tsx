@@ -4,10 +4,9 @@ import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
 import { useEffect, useRef } from "react";
 import ListingPage from "./listing-page";
-import { LdpResponce } from "@/lib/types";
 
 interface Props {
-  data: LdpResponce;
+  data: any;
 }
 
 function Desktop({ data }: Props) {
