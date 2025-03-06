@@ -31,7 +31,7 @@ function FooterPricing() {
       />
 
       <div className="flex flex-col justify-between w-[210px] 2xl:w-[300px]">
-        <div className="text-[23px] flex justify-between leading-[0.7] tracking-[3px] 2xl:tracking-[4px]">
+        <div className="text-[23px] flex justify-between leading-[0.7] tracking-[3px] 2xl:tracking-[4px] 2xl:text-[30px]">
           <p className="tracking-[5px] 3xl:tracking-[6px]">£355,767</p>
           <p>GBP</p>
         </div>
