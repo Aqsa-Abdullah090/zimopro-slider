@@ -6,12 +6,12 @@ function HeaderBtns() {
   const { theme, toggleTheme } = useTheme(); // Use theme from context
 
   return (
-    <div className="flex items-center gap-5 z-50">
+    <div className="flex items-center gap-7 z-50">
       <Heart />
       <button>
         <img
           src="/assets/icons/share.svg"
-          className={clsx("h-[20px] 3xl:h-[30px]", {
+          className={clsx("h-[20px] 2xl:h-[30px]", {
             "invert": theme === "light", // Apply invert class in dark mode
           })}
           alt="Share"
@@ -20,7 +20,7 @@ function HeaderBtns() {
       <button>
         <img
           src="/assets/icons/cam.svg"
-          className={clsx("h-[20px] 3xl:h-[30px]", {
+          className={clsx("h-[20px] 2xl:h-[30px]", {
             "invert": theme === "light", // Apply invert class in dark mode
           })}
           alt="Camera"

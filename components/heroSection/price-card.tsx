@@ -20,7 +20,7 @@ function PriceCard({ data }: Props) {
       <div className="mx-auto lg:mx-[unset] w-[230px] 3xl:w-[300px] flex gap-3 lg:gap-[unset] flex-col items-center lg:justify-between h-full">
         <div
           className={clsx(
-            "text-[23px] flex justify-between w-full leading-[0.7]",
+            "text-[23px] 3xl:text-[30px] flex justify-between w-full leading-[0.7]",
             "tracking-[3px] 3xl:tracking-[4px]"
           )}
         >

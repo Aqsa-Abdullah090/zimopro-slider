@@ -23,7 +23,7 @@ function ListingPage({ data }: Props) {
     >
       <Header />
       <div className="hero-x-scrollable flex gap-6 lg:gap-0 flex-col lg:flex-row flex-nowrap w-screen lg:w-[400vw]">
-        <div className="flex-shrink-0 hero-text-content mb-8 lg:mb-0">
+        <div className="2xl:w-[825px] flex-shrink-0 hero-text-content mb-8 lg:mb-0">
           <Hero data={data} />
           <div className="mt-8 lg:mt-0">
             <Description />

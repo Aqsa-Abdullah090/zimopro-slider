@@ -25,7 +25,7 @@ function ListingMedia({ data }: Props) {
           <img
             src={item}
             alt=""
-            className="w-[55vw] h-[60vh] object-cover scroll-image"
+            className="w-[55vw] h-[60vh] 2xl:w-[60vw] 2xl:h-[65vh] object-cover scroll-image"
           />
         </div>
       ))}

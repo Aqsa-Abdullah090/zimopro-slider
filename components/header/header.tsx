@@ -23,7 +23,7 @@ function Header() {
             "fill-black": theme === "light",
           })}
         />
-        <p className="uppercase text-[9px] opacity-25 group-hover:opacity-100">
+        <p className="uppercase text-[9px] 2xl:text-[12px] opacity-25 group-hover:opacity-100">
           back
         </p>
       </button>

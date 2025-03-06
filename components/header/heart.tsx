@@ -5,12 +5,12 @@ function Heart() {
   const [liked, setLiked] = useState(false);
 
   return (
-    <button onClick={() => setLiked(!liked)} className="w-6 3xl:w-8">
+    <button onClick={() => setLiked(!liked)} className="w-6 2xl:w-8">
       <img
         src={`/assets/icons/${
           liked ? "Heart Favourite Red (Model).svg" : "heart-red.svg"
         }`}
-        className="h-[20px] 3xl:h-[30px] w-auto"
+        className="h-[20px] 2xl:h-[30px] w-auto"
         alt=""
       />
     </button>

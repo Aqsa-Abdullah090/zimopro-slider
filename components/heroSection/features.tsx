@@ -24,7 +24,7 @@ function Features() {
           <Item h="Other Rooms" p={"3"} />
         </div>
       </div>
-      <button className="uppercase mt-1 text-white/25 hover:text-white">
+      <button className="uppercase mt-1 text-white/25 hover:text-white text-[11px] 3xl:text-[15px]">
         view all features
       </button>
     </div>
@@ -38,7 +38,7 @@ interface ItemProps {
 }
 
 const Item = ({ h, p }: Readonly<ItemProps>) => (
-  <div className="ldp_feature_col_item text__15">
+  <div className="ldp_feature_col_item text-[11px] 3xl:text-[15px]">
     <h4 className="opacity-25">{h}</h4>
     <p className="normal-case">{p}</p>
   </div>
