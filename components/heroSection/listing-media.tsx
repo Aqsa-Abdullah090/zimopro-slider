@@ -1,15 +1,29 @@
 /* eslint-disable @next/next/no-img-element */
+import { useEffect, useState } from "react";
 import clsx from "clsx";
 
 interface Props {
-  data: any;
+  data: { images: string[] }; // Explicitly define `images` as an array of strings
 }
 
-
 function ListingMedia({ data }: Props) {
+  const [imageWidth, setImageWidth] = useState("55vw"); // Default width
+
+  useEffect(() => {
+    const updateSize = () => {
+      setImageWidth(window.innerWidth >= 2500 ? "70vw" : "55vw");
+    };
+
+    if (typeof window !== "undefined") {
+      updateSize(); // Set on mount
+      window.addEventListener("resize", updateSize);
+      return () => window.removeEventListener("resize", updateSize);
+    }
+  }, []);
+
   return (
     <>
-      {data.images.map((item, i) => (
+      {data.images.map((item: string, i: number) => (
         <div
           key={i}
           className="scroll-media-wrapper flex-shrink-0 lg:mr-28 relative mx-auto lg:mx-[unset]"
@@ -24,11 +38,14 @@ function ListingMedia({ data }: Props) {
           <img
             src={item}
             alt=""
-            className="w-[55vw] h-[60vh] 2xl:w-[60vw] 2xl:h-[65vh] object-cover scroll-image"
+            style={{ width: imageWidth }}
+            className="h-[60vh] 2xl:h-[65vh] object-cover scroll-image"
           />
         </div>
       ))}
     </>
   );
 }
+
 export default ListingMedia;
+
