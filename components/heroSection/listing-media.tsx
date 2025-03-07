@@ -26,7 +26,8 @@ function ListingMedia({ data }: Props) {
       {data.images.map((item: string, i: number) => (
         <div
           key={i}
-          className="scroll-media-wrapper flex-shrink-0 lg:mr-28 relative mx-auto lg:mx-[unset]"
+          style={{ width: imageWidth }}
+          className="w-[90vw] h-[30vh] lg:h-[60vh] lg:w-[55vw] 2xl:h-[65vh] 2xl:w-[60vw] 4xl:w-[70vw] flex-shrink-0 lg:mr-28 relative mx-auto lg:mx-[unset]"
         >
           <img
             src="/assets/ZigPro.svg"
@@ -38,8 +39,7 @@ function ListingMedia({ data }: Props) {
           <img
             src={item}
             alt=""
-            style={{ width: imageWidth }}
-            className="h-[60vh] 2xl:h-[65vh] object-cover scroll-image"
+            className="h-full w-full object-cover scroll-image"
           />
         </div>
       ))}
