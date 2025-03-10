@@ -1,7 +1,6 @@
 import clsx from "clsx";
 import BuyEntryNow from "../button/buy-entry-now";
 import dynamic from "next/dynamic";
-import { LdpResponce } from "@/lib/types";
 import { useTheme } from "@/context/theme-context"; // Import theme context
 
 const Countdown = dynamic(() => import("../listing-detail/countdown"), {
@@ -9,7 +8,7 @@ const Countdown = dynamic(() => import("../listing-detail/countdown"), {
 });
 
 interface Props {
-  data: LdpResponce;
+  data: any;
 }
 
 function PriceCard({ data }: Props) {
