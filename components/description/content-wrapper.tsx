@@ -1,9 +1,9 @@
+import { useEffect, useRef } from "react";
 import ForwardArrowSvg from "@/components/svgs/forward_arrow_svg";
 import { useGSAP } from "@gsap/react";
 import clsx from "clsx";
 import { motion } from "framer-motion";
 import gsap from "gsap";
-import { useRef } from "react";
 import useThemeContext from "../heroSection/useThemeContext";
 import BgImage from "./bg-image";
 import Footer from "./footer";
@@ -20,71 +20,48 @@ function ContentWrapper({ data }: Props) {
   const { theme, setDescription } = useThemeContext();
   const containerRef = useRef<HTMLDivElement>(null);
 
+  // Disable scrolling when component mounts, enable when it unmounts
+  useEffect(() => {
+    document.body.style.overflow = "hidden"; // Disable scrolling
+    document.documentElement.style.overflow = "hidden"; // Also disable scrolling for <html>
+
+    return () => {
+      document.body.style.overflow = ""; // Re-enable scrolling on unmount
+      document.documentElement.style.overflow = "";
+    };
+  }, []);
+
   useGSAP(
     () => {
       gsap
         .timeline()
         .fromTo(
           ".desc-drop-header",
-          {
-            opacity: 0,
-            y: -100,
-          },
-          {
-            opacity: 1,
-            y: 0,
-            duration: 1,
-            delay: 0.8,
-          }
+          { opacity: 0, y: -100 },
+          { opacity: 1, y: 0, duration: 1, delay: 0.8 }
         )
         .fromTo(
           ".desc-drop-back",
-          {
-            opacity: 0,
-          },
-          {
-            opacity: 1,
-            duration: 0.3,
-          }
+          { opacity: 0 },
+          { opacity: 1, duration: 0.3 }
         )
         .fromTo(
           ".description-full",
-          {
-            opacity: 0,
-            x: -200,
-          },
-          {
-            opacity: 1,
-            x: 0,
-            duration: 1,
-          }
+          { opacity: 0, x: -200 },
+          { opacity: 1, x: 0, duration: 1 }
         )
         .fromTo(
           ".features-full",
-          {
-            opacity: 0,
-            y: 200,
-          },
-          {
-            opacity: 1,
-            y: 0,
-            duration: 1,
-          }
+          { opacity: 0, y: 200 },
+          { opacity: 1, y: 0, duration: 1 }
         )
         .fromTo(
           ".desc-drop-footer",
-          {
-            opacity: 0,
-          },
-          {
-            opacity: 1,
-            duration: 1.5,
-          }
+          { opacity: 0 },
+          { opacity: 1, duration: 1.5 }
         );
     },
-    {
-      scope: containerRef,
-    }
+    { scope: containerRef }
   );
 
   return (
@@ -95,12 +72,12 @@ function ContentWrapper({ data }: Props) {
       exit={{ y: "-100%" }}
       transition={{ duration: 1, ease: "easeOut" }}
       className={clsx(
-        "fixed inset-0 z-[100] listing__detail__page overflow-hidden",
+        "fixed inset-0 top-[-5.7rem] z-[100] listing__detail__page overflow-hidden",
         theme === "dark" ? "bg-black text-white" : "bg-white text-black"
       )}
     >
-      <BgImage images={data.images} />
-      <div className="relative z-[101] p-4 lg:p-8 3xl:p-10 uppercase flex flex-col h-full overflow-y-auto lg:overflow-y-hidden">
+      <BgImage />
+      <div className="relative z-[101] p-4 lg:p-8 3xl:p-10 uppercase flex flex-col h-full overflow-hidden">
         <Header data={data} />
         <button
           onClick={() => setDescription(false)}
@@ -117,10 +94,12 @@ function ContentWrapper({ data }: Props) {
           </p>
         </button>
 
-        <FullFeatures/>
+        <FullFeatures />
         <Footer />
       </div>
     </motion.div>
   );
 }
 export default ContentWrapper;
+
+

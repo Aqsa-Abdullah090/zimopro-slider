@@ -31,7 +31,7 @@ function HeaderBtns() {
           console.log("Theme button clicked!");
           toggleTheme(); // ✅ Use the toggleTheme function from context
         }}
-        className="px-3 py-1 border rounded-lg z-[9999] transition-all bg-gray-200 text-black dark:bg-gray-800 dark:text-white relative"
+        className="px-3 py-1 border rounded-lg z-[50] transition-all bg-gray-200 text-black dark:bg-gray-800 dark:text-white relative"
       >
         {theme === "light" ? "Dark Mode" : "Light Mode"}
       </button>

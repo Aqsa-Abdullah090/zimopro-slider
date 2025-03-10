@@ -1,9 +1,18 @@
 import { useEffect, useRef, useState } from "react";
 
 function FullFeatures() {
-  const divRef = useRef<HTMLDetailsElement>(null);
-  const secondDivRef = useRef<HTMLDetailsElement>(null);
+  const divRef = useRef<HTMLDivElement>(null);
+  const secondDivRef = useRef<HTMLDivElement>(null);
   const [height, setHeight] = useState(0);
+
+  // Correctly defining data
+  const data = {
+    details: {
+      flooringTypes: ["Wood", "Tile", "Carpet", "Tile"],
+      interiorFeatures: ["Fireplace", "Air Conditioning", "Carpet", "Tile"],
+      exteriorFeatures: ["Garden", "Balcony", "Garage"],
+    },
+  };
 
   useEffect(() => {
     if (divRef.current && secondDivRef.current) {
@@ -13,7 +22,7 @@ function FullFeatures() {
       );
       setHeight(bigDiv);
     }
-  }, []);
+  }, [data]); // Added data as a dependency
 
   return (
     <div className="mt-4 2xl:mt-12 flex flex-col lg:flex-row gap-4 lg:gap-32 3xl:gap-40 items-start">
@@ -31,50 +40,50 @@ function FullFeatures() {
 
       <section className="features-full flex flex-wrap lg:flex-nowrap items-start gap-6 lg:gap-12">
         <div className="flex flex-col gap-2 3xl:gap-4" ref={divRef}>
-          <Item h="Property Type" p={"Penthouse"} />
-          <Item h="Tenure" p={"Shared Ownership"} />
-          <Item h="Year of Build" p={"1996"} />
-          <Item h="Architecture" p={"Art Deco"} />
-          <Item h="Property sq.ft" p={"3485 sq.ft"} />
-          <Item h="Lot size (land)" p={"6 Acres"} />
-          <Item h="Air conditioning" p={"No"} />
-          <Item h="Gymnasium" p={"No"} />
+          <Item h="Property Type" p="Penthouse" />
+          <Item h="Tenure" p="Shared Ownership" />
+          <Item h="Year of Build" p="1996" />
+          <Item h="Architecture" p="Art Deco" />
+          <Item h="Property sq.ft" p="3485 sq.ft" />
+          <Item h="Lot size (land)" p="6 Acres" />
+          <Item h="Air conditioning" p="No" />
+          <Item h="Gymnasium" p="No" />
         </div>
         <BorderLine h={height} />
         <div className="flex flex-col gap-2 3xl:gap-4" ref={secondDivRef}>
-          <Item h="Bedrooms" p={"5"} />
-          <Item h="Bathrooms" p={"4"} />
-          <Item h="Reception Rooms" p={"2"} />
-          <Item h="Other Rooms" p={"3"} />
-          <Item h="Number of Floors" p={"7"} />
+          <Item h="Bedrooms" p="5" />
+          <Item h="Bathrooms" p="4" />
+          <Item h="Reception Rooms" p="2" />
+          <Item h="Other Rooms" p="3" />
+          <Item h="Number of Floors" p="7" />
           <Item h="Garden" p="Yes" />
-          {/* {data.details?.flooringTypes && (
+          {data.details?.flooringTypes && (
             <div className="normal-case text__15 flex flex-col gap-1">
               <h4 className="opacity-25 uppercase">Flooring Types</h4>
               {data.details.flooringTypes.map((ft, i) => (
                 <p key={i}>{ft}</p>
               ))}
             </div>
-          )} */}
+          )}
         </div>
         <BorderLine h={height} />
-        {/* {data.details?.interiorFeatures && (
+        {data.details?.interiorFeatures && (
           <div className="text__15 normal-case flex flex-col gap-1 3xl:gap-2">
-            <h4 className="opacity-25 uppercase">interior features</h4>
+            <h4 className="opacity-25 uppercase">Interior Features</h4>
             {data.details.interiorFeatures.map((item, i) => (
               <p key={i}>{item}</p>
             ))}
           </div>
-        )} */}
+        )}
         <BorderLine h={height} />
-        {/* {data.details?.exteriorFeatures && (
+        {data.details?.exteriorFeatures && (
           <div className="text__15 normal-case flex flex-col gap-1 3xl:gap-2">
-            <h4 className="opacity-25 uppercase">exterior features</h4>
+            <h4 className="opacity-25 uppercase">Exterior Features</h4>
             {data.details.exteriorFeatures.map((item, i) => (
               <p key={i}>{item}</p>
             ))}
           </div>
-        )} */}
+        )}
       </section>
     </div>
   );
