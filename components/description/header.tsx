@@ -1,11 +1,10 @@
 /* eslint-disable @next/next/no-img-element */
 import clsx from "clsx";
-import HeaderBtns from "../header-btns";
-import useThemeContext from "../useThemeContext";
-import { LdpResponce } from "@/lib/types";
+import HeaderBtns from "../header/header-btns";
+import useThemeContext from "../heroSection/useThemeContext";
 
 interface Props {
-  data: LdpResponce;
+  data: any;
 }
 
 function Header({ data }: Props) {

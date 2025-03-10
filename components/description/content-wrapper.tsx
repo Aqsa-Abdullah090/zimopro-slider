@@ -102,7 +102,7 @@ function ContentWrapper({ data }: Props) {
       <BgImage images={data.images} />
       <div className="relative z-[101] p-4 lg:p-8 3xl:p-10 uppercase flex flex-col h-full overflow-y-auto lg:overflow-y-hidden">
         <Header data={data} />
-        {/* <button
+        <button
           onClick={() => setDescription(false)}
           className="desc-drop-back flex items-center justify-between gap-2 lg:gap-4 group w-max mt-6 3xl:mt-8"
         >
@@ -115,10 +115,10 @@ function ContentWrapper({ data }: Props) {
           <p className="uppercase text__12 opacity-25 group-hover:opacity-100">
             back
           </p>
-        </button> */}
+        </button>
 
-        {/* <FullFeatures data={data} />
-        <Footer data={data} /> */}
+        <FullFeatures/>
+        <Footer />
       </div>
     </motion.div>
   );
