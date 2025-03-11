@@ -3,11 +3,7 @@ import clsx from "clsx";
 import HeaderBtns from "../header/header-btns";
 import useThemeContext from "../heroSection/useThemeContext";
 
-interface Props {
-  data: any;
-}
-
-function Header({ data }: Props) {
+function Header() {
   const { theme } = useThemeContext();
 
   return (
@@ -20,8 +16,12 @@ function Header({ data }: Props) {
         />
       </div>
 
-      <div className="hidden lg:flex text-[10px] 2xl:text-[14px] justify-center items-center gap-3 uppercase text-white">
-        <img src={data.flag_url} className="h-3 lg:h-6" alt="" />
+      <div className="hidden lg:flex text-[10px] 2xl:text-[14px] justify-center items-center gap-3 uppercase">
+        <img
+          src="https://firebasestorage.googleapis.com/v0/b/zimo-b9759.appspot.com/o/zimo%2Fcategories%2F1701925788521.png?alt=media&token=e639c433-2a76-40a2-a31f-9d1d9684d7f2"
+          className="h-3 lg:h-6"
+          alt=""
+        />
         <p>Regent Street</p>
         <p>The Lloyd’s Building</p>
         <p>London</p>

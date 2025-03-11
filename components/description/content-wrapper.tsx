@@ -78,7 +78,7 @@ function ContentWrapper({ data }: Props) {
     >
       <BgImage />
       <div className="relative z-[101] p-4 lg:p-8 3xl:p-10 uppercase flex flex-col max-w-screen h-full overflow-hidden">
-        <Header data={data} />
+        <Header />
         <button
           onClick={() => setDescription(false)}
           className="desc-drop-back flex items-center justify-between gap-2 lg:gap-4 group w-max mt-6 3xl:mt-8"
