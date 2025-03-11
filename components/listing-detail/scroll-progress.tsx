@@ -1,8 +1,13 @@
 import { useTheme } from "../../context/theme-context"; // Ensure the correct import path
+import useThemeContext from "../heroSection/useThemeContext"; // Import context
 import clsx from "clsx";
 
 function ScrollProgress() {
   const { theme } = useTheme();
+  const { description } = useThemeContext(); // Get description state
+
+  // Hide ScrollProgress when DescriptionDropdown is open
+  if (description) return null;
 
   return (
     <div
@@ -22,3 +27,5 @@ function ScrollProgress() {
 }
 
 export default ScrollProgress;
+
+

@@ -1,15 +1,19 @@
-/* eslint-disable @next/next/no-img-element */
+import { useTheme } from "@/context/theme-context"; // Import theme context
+import useThemeContext from "../heroSection/useThemeContext";
 import clsx from "clsx";
 import ForwardArrowSvg from "../svgs/forward_arrow_svg";
 import HeaderBtns from "./header-btns";
-import { useTheme } from "@/context/theme-context"; // Import theme context
 
 function Header() {
   const { theme } = useTheme(); // Get theme from context
+  const { description } = useThemeContext(); // Get description state
 
   const handleBackClick = () => {
     console.log("back");
   };
+
+  // Hide header when description dropdown is open
+  if (description) return null;
 
   return (
     <header className="lg:pl-12 2xl:pl-16 px-4 flex flex-col mb-2 2xl:mb-4 w-full lg:pr-8 2xl:pr-12 mt-[8vh] lg:mt-[6vh] 2xl:mt-[12vh]">
@@ -36,5 +40,6 @@ function Header() {
 }
 
 export default Header;
+
 
 

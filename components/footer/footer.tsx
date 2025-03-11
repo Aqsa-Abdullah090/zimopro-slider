@@ -2,9 +2,15 @@
 import LeftArrow from "../svgs/left-arrow";
 import MiceSvg from "../svgs/mice-svg";
 import FooterPricing from "./footer-pricing";
-import "./footer.scss"
+import useThemeContext from "../heroSection/useThemeContext"; // Import context
+import "./footer.scss";
 
 function Footer() {
+  const { description } = useThemeContext(); // Get description state
+
+  // Hide Footer when DescriptionDropdown is open
+  if (description) return null;
+
   return (
     <footer
       className="text-[7px] 2xl:text-[12px] uppercase mt-4 lg:mt-auto relative w-full flex gap-8 mb-6 lg:mb-4 2xl:mb-6 3xl:mb-8 px-4 lg:px-12"
@@ -46,6 +52,7 @@ function Footer() {
     </footer>
   );
 }
+
 export default Footer;
 
 const LeftArrowWrapper = () => {
