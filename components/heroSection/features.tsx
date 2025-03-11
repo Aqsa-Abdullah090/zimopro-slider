@@ -1,9 +1,9 @@
 import clsx from "clsx";
 import useThemeContext from "./useThemeContext";
-import ContentWrapper from "../description/content-wrapper"; // ✅ Import ContentWrapper
+import DescriptionDropdown from "../description/dropdown";
 
 function Features() {
-  const { theme, description, setDescription } = useThemeContext(); // ✅ Get state
+  const { theme, setDescription, description } = useThemeContext();
 
   return (
     <div className="lg:pl-12 3xl:pl-16 pl-4 mt-3 3xl:mt-5">
@@ -34,17 +34,19 @@ function Features() {
             ? "text-white/25 hover:text-white"
             : "text-black/25 hover:text-black"
         )}
-        onClick={() => setDescription(true)} // ✅ Open ContentWrapper
+        onClick={() => setDescription(true)}
       >
         view all features
       </button>
 
-      {description && <ContentWrapper data={{ images: [] }} />} {/* ✅ Show ContentWrapper */}
+      {/* Add dropdown below */}
+      {description && <DescriptionDropdown />}
     </div>
   );
 }
 
 export default Features;
+
 
 
 interface ItemProps {

@@ -1,14 +1,13 @@
 import { useGSAP } from "@gsap/react";
 import { AnimatePresence } from "framer-motion";
 import gsap from "gsap";
-import useThemeContext from "../useThemeContext";
+import useThemeContext from "../heroSection/useThemeContext";
 import ContentWrapper from "./content-wrapper";
-import { LdpResponce } from "@/lib/types";
 
 gsap.registerPlugin(useGSAP);
 
 interface Props {
-  data: LdpResponce;
+  data: any;
 }
 
 function DescriptionDropdown({ data }: Props) {
