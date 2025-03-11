@@ -11,7 +11,7 @@ function Header({ data }: Props) {
   const { theme } = useThemeContext();
 
   return (
-    <header className="desc-drop-header grid grid-cols-2 lg:grid-cols-[1fr_2fr_1fr] items-center">
+    <header className=" flex justify-between items-center">
       <div>
         <img
           src="/assets/ZigPro.svg"
@@ -20,16 +20,16 @@ function Header({ data }: Props) {
         />
       </div>
 
-      <div className="hidden lg:flex text__14 justify-center items-center gap-3">
+      <div className="hidden lg:flex text-[10px] 2xl:text-[14px] justify-center items-center gap-3 uppercase text-white">
         <img src={data.flag_url} className="h-3 lg:h-6" alt="" />
-        <p>{data.address_line_1}</p>
-        <p>{data.address_line_2}</p>
-        <p>{data.city}</p>
-        <p>{data.postal_code}</p>
-        <p>{data.country_name}</p>
+        <p>Regent Street</p>
+        <p>The Lloyd’s Building</p>
+        <p>London</p>
+        <p>WC2N</p>
+        <p>United Kingdom</p>
       </div>
 
-      <div className="flex gap-3 lg:gap-4 3xl:gap-6 justify-end">
+      <div className="flex gap-2 lg:gap-4 3xl:gap-6 justify-end">
         <HeaderBtns />
       </div>
     </header>

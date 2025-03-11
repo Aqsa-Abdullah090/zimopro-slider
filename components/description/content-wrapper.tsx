@@ -77,7 +77,7 @@ function ContentWrapper({ data }: Props) {
       )}
     >
       <BgImage />
-      <div className="relative z-[101] p-4 lg:p-8 3xl:p-10 uppercase flex flex-col h-full overflow-hidden">
+      <div className="relative z-[101] p-4 lg:p-8 3xl:p-10 uppercase flex flex-col max-w-screen h-full overflow-hidden">
         <Header data={data} />
         <button
           onClick={() => setDescription(false)}
@@ -89,7 +89,7 @@ function ContentWrapper({ data }: Props) {
               theme === "dark" ? "fill-white" : "fill-black"
             )}
           />
-          <p className="uppercase text__12 opacity-25 group-hover:opacity-100">
+          <p className="uppercase text-[9px] 2xl:text-[12px] opacity-25 group-hover:opacity-100">
             back
           </p>
         </button>

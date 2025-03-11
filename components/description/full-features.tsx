@@ -26,7 +26,7 @@ function FullFeatures() {
 
   return (
     <div className="mt-4 2xl:mt-12 flex flex-col lg:flex-row gap-4 lg:gap-32 3xl:gap-40 items-start">
-      <section className="description-full max-w-[480px] 3xl:max-w-[588px] flex flex-col gap-3 normal-case text__15">
+      <section className="description-full max-w-[450px] 2xl:max-w-[588px] flex flex-col gap-3 normal-case text-[11px] 2xl:text-[15px]">
       <p className="normal-case 2xl:tracking-[0.8px]">A beautiful property located in a prime location with all modern
           amenities. A beautiful property located in a prime location with all
           modern amenities. A beautiful property located in a prime location
@@ -39,7 +39,7 @@ function FullFeatures() {
       </section>
 
       <section className="features-full flex flex-wrap lg:flex-nowrap items-start gap-6 lg:gap-12">
-        <div className="flex flex-col gap-2 3xl:gap-4" ref={divRef}>
+        <div className="flex flex-col gap-2 2xl:gap-4" ref={divRef}>
           <Item h="Property Type" p="Penthouse" />
           <Item h="Tenure" p="Shared Ownership" />
           <Item h="Year of Build" p="1996" />
@@ -50,7 +50,7 @@ function FullFeatures() {
           <Item h="Gymnasium" p="No" />
         </div>
         <BorderLine h={height} />
-        <div className="flex flex-col gap-2 3xl:gap-4" ref={secondDivRef}>
+        <div className="flex flex-col gap-2 2xl:gap-4" ref={secondDivRef}>
           <Item h="Bedrooms" p="5" />
           <Item h="Bathrooms" p="4" />
           <Item h="Reception Rooms" p="2" />
@@ -58,7 +58,7 @@ function FullFeatures() {
           <Item h="Number of Floors" p="7" />
           <Item h="Garden" p="Yes" />
           {data.details?.flooringTypes && (
-            <div className="normal-case text__15 flex flex-col gap-1">
+            <div className="normal-case text-[11px] 2xl:text-[15px] flex flex-col gap-1">
               <h4 className="opacity-25 uppercase">Flooring Types</h4>
               {data.details.flooringTypes.map((ft, i) => (
                 <p key={i}>{ft}</p>
@@ -68,7 +68,7 @@ function FullFeatures() {
         </div>
         <BorderLine h={height} />
         {data.details?.interiorFeatures && (
-          <div className="text__15 normal-case flex flex-col gap-1 3xl:gap-2">
+          <div className="text-[11px] 2xl:text-[15px] normal-case flex flex-col gap-1 2xl:gap-2">
             <h4 className="opacity-25 uppercase">Interior Features</h4>
             {data.details.interiorFeatures.map((item, i) => (
               <p key={i}>{item}</p>
@@ -77,7 +77,7 @@ function FullFeatures() {
         )}
         <BorderLine h={height} />
         {data.details?.exteriorFeatures && (
-          <div className="text__15 normal-case flex flex-col gap-1 3xl:gap-2">
+          <div className="text-[11px] 2xl:text-[15px] normal-case flex flex-col gap-1 2xl:gap-2">
             <h4 className="opacity-25 uppercase">Exterior Features</h4>
             {data.details.exteriorFeatures.map((item, i) => (
               <p key={i}>{item}</p>
@@ -96,7 +96,7 @@ interface ItemProps {
 }
 
 const Item = ({ h, p }: Readonly<ItemProps>) => (
-  <div className="flex flex-col gap-1 3xl:gap-2 text__15">
+  <div className="flex flex-col gap-1 2xl:gap-2 text-[11px] 2xl:text-[15px]">
     <h4 className="opacity-25">{h}</h4>
     <p className="normal-case">{p}</p>
   </div>
@@ -109,6 +109,6 @@ interface BorderLineProps {
 const BorderLine = ({ h }: Readonly<BorderLineProps>) => (
   <div
     style={{ height: `${h}px` }}
-    className="hidden lg:block w-[1px] 3xl:w-[2px] bg-black"
+    className="hidden lg:block w-[1px] 2xl:w-[2px] bg-black"
   />
 );
