@@ -31,17 +31,26 @@ function FullFeatures() {
   }, [data]); // Added data as a dependency
 
   return (
-    <div className="mt-4 2xl:mt-12 flex flex-col lg:flex-row gap-4 lg:gap-32 3xl:gap-40 items-start">
+    <div className="mt-4 2xl:mt-12 flex flex-col lg:flex-row gap-4 lg:gap-32 2xl:gap-40 items-start">
       <section className="description-full max-w-[480px] 2xl:max-w-[588px] flex flex-col gap-3 normal-case text-[11px] 2xl:text-[15px]">
-      <p className="normal-case 2xl:tracking-[0.8px]">A beautiful property located in a prime location with all modern
+      <p className="normal-case 2xl:tracking-[1px] text-[11px] 2xl:text-[18px]">A beautiful property located in a prime location with all modern
           amenities. A beautiful property located in a prime location with all
           modern amenities. A beautiful property located in a prime location
           with all modern amenities. A beautiful property located in a prime
           location with all modern amenities. A beautiful property located in a
           prime location with all modern amenities. A beautiful property located
           in a prime location with all modern amenities. A beautiful property
-          located in a prime location with all modern amenities. A beautiful
-          property located in a prime location with all modern ame...</p>
+          located in a prime location with all modern amenities. A beautiful property located in a prime
+          location with all modern amenities. A beautiful property located in a
+          prime location with all modern amenities. A beautiful property located
+          in a prime location with all modern amenities. A beautiful property
+          located in a prime location with all modern amenities.A beautiful property located in a prime
+          location with all modern amenities. A beautiful property located in a
+          prime location with all modern amenities. A beautiful property located
+          in a prime location with all modern amenities. A beautiful property
+          located in a prime location with all modern amenities. A beautiful property located in a prime
+          location with all modern amenities. A beautiful property located in a
+          prime location with all modern amenities.</p>
       </section>
 
       <section className="features-full flex flex-wrap lg:flex-nowrap items-start gap-6 lg:gap-12">

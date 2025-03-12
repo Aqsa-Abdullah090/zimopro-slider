@@ -77,15 +77,15 @@ function ContentWrapper({ data }: Props) {
       )}
     >
       <BgImage />
-      <div className="relative z-[101] p-4 lg:p-8 3xl:p-10 uppercase flex flex-col max-w-screen h-full overflow-hidden">
+      <div className="relative z-[101] p-4 lg:p-8 2xl:p-10 uppercase flex flex-col max-w-screen h-full overflow-hidden">
         <Header />
         <button
           onClick={() => setDescription(false)}
-          className="desc-drop-back flex items-center justify-between gap-2 lg:gap-4 group w-max mt-6 3xl:mt-8"
+          className="desc-drop-back flex items-center justify-between gap-2 lg:gap-4 group w-max mt-6 2xl:mt-8"
         >
           <ForwardArrowSvg
             className={clsx(
-              "h-[9px] 3xl:h-[11px] -scale-x-[1]",
+              "h-[9px] 2xl:h-[11px] -scale-x-[1]",
               theme === "dark" ? "fill-white" : "fill-black"
             )}
           />

@@ -7,7 +7,7 @@ function Header() {
   const { theme } = useThemeContext();
 
   return (
-    <header className=" flex justify-between items-center">
+    <header className="desc-drop-header flex justify-between items-center">
       <div>
         <img
           src="/assets/ZigPro.svg"
@@ -29,7 +29,7 @@ function Header() {
         <p>United Kingdom</p>
       </div>
 
-      <div className="flex gap-2 lg:gap-4 3xl:gap-6 justify-end">
+      <div className="flex gap-2 lg:gap-4 2xl:gap-6 justify-end">
         <HeaderBtns />
       </div>
     </header>
