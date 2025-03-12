@@ -6,7 +6,7 @@ import FooterPricing from "./footer-pricing";
 function Footer() {
   return (
     <footer
-      className="desc-drop-footer flex flex-col lg:flex-row justify-between lg:items-end lg:absolute mt-8 lg:mt-0 pb-4 lg:pb-0 2xl:bottom-10 2xl:left-10 2xl:right-10 bottom-8 left-8 right-8 gap-4 lg:gap-0"
+      className="desc-drop-footer flex flex-col lg:flex-row justify-between lg:items-end lg:absolute mt-8 lg:mt-0 pb-4 lg:pb-0 2xl:bottom-10 2xl:left-10 2xl:right-20 bottom-8 left-8 right-8 gap-4 lg:gap-0"
     >
       <p className="text__12">#786123456</p>
 
