@@ -1,9 +1,15 @@
 import { useEffect, useRef, useState } from "react";
+import useThemeContext from "../heroSection/useThemeContext";
+import clsx from "clsx";
+
 
 function FullFeatures() {
+  const { theme } = useThemeContext();
   const divRef = useRef<HTMLDivElement>(null);
   const secondDivRef = useRef<HTMLDivElement>(null);
   const [height, setHeight] = useState(0);
+
+  
 
   // Correctly defining data
   const data = {
@@ -26,7 +32,7 @@ function FullFeatures() {
 
   return (
     <div className="mt-4 2xl:mt-12 flex flex-col lg:flex-row gap-4 lg:gap-32 3xl:gap-40 items-start">
-      <section className="description-full max-w-[450px] 2xl:max-w-[588px] flex flex-col gap-3 normal-case text-[11px] 2xl:text-[15px]">
+      <section className="description-full max-w-[480px] 2xl:max-w-[588px] flex flex-col gap-3 normal-case text-[11px] 2xl:text-[15px]">
       <p className="normal-case 2xl:tracking-[0.8px]">A beautiful property located in a prime location with all modern
           amenities. A beautiful property located in a prime location with all
           modern amenities. A beautiful property located in a prime location
@@ -49,7 +55,7 @@ function FullFeatures() {
           <Item h="Air conditioning" p="No" />
           <Item h="Gymnasium" p="No" />
         </div>
-        <BorderLine h={height} />
+        <BorderLine h={height} theme={theme} />
         <div className="flex flex-col gap-2 2xl:gap-4" ref={secondDivRef}>
           <Item h="Bedrooms" p="5" />
           <Item h="Bathrooms" p="4" />
@@ -66,7 +72,7 @@ function FullFeatures() {
             </div>
           )}
         </div>
-        <BorderLine h={height} />
+        <BorderLine h={height} theme={theme} />
         {data.details?.interiorFeatures && (
           <div className="text-[11px] 2xl:text-[15px] normal-case flex flex-col gap-1 2xl:gap-2">
             <h4 className="opacity-25 uppercase">Interior Features</h4>
@@ -75,7 +81,7 @@ function FullFeatures() {
             ))}
           </div>
         )}
-        <BorderLine h={height} />
+        <BorderLine h={height} theme={theme} />
         {data.details?.exteriorFeatures && (
           <div className="text-[11px] 2xl:text-[15px] normal-case flex flex-col gap-1 2xl:gap-2">
             <h4 className="opacity-25 uppercase">Exterior Features</h4>
@@ -104,11 +110,17 @@ const Item = ({ h, p }: Readonly<ItemProps>) => (
 
 interface BorderLineProps {
   h: number;
+  theme: string;
 }
 
-const BorderLine = ({ h }: Readonly<BorderLineProps>) => (
+
+const BorderLine = ({ h, theme }: Readonly<BorderLineProps>) => (
   <div
     style={{ height: `${h}px` }}
-    className="hidden lg:block w-[1px] 2xl:w-[2px] bg-black"
+    className={clsx(
+      "hidden lg:block w-[1px] 2xl:w-[2px]",
+      theme === "dark" ? "bg-white" : "bg-black"
+    )}
   />
 );
+

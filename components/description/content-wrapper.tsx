@@ -72,7 +72,7 @@ function ContentWrapper({ data }: Props) {
       exit={{ y: "-100%" }}
       transition={{ duration: 1, ease: "easeOut" }}
       className={clsx(
-        "fixed inset-0 z-[100] listing__detail__page overflow-hidden",
+        "fixed inset-0 z-[100] h-screen listing__detail__page overflow-hidden",
         theme === "dark" ? "bg-black text-white" : "bg-white text-black"
       )}
     >

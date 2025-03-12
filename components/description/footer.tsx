@@ -13,7 +13,7 @@ function Footer() {
       <div className="lg:ml-auto flex flex-col items-start lg:flex-row gap-4 lg:gap-0">
         <button>
           <img
-            src="/"
+            src="https://firebasestorage.googleapis.com/v0/b/uploadimage-6caaa.appspot.com/o/zimopro%2Fqr-codes%2FZIMOJI%20ZIMOPRO%201%20Gold.svg?alt=media&token=6a752ed5-af26-43f3-bd01-f894380480e8"
             className="h-[160px] 3xl:h-[218px] w-auto"
             alt=""
           />

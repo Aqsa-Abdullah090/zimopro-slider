@@ -1,17 +1,23 @@
 /* eslint-disable @next/next/no-img-element */
 import BuyEntryNow from "../button/buy-entry-now";
 import Countdown from "../listing-detail/countdown";
+import useThemeContext from "../heroSection/useThemeContext";
+import clsx from "clsx";
 
 function FooterPricing() {
+  const { theme } = useThemeContext();
   return (
     <section className="flex items-start lg:items-stretch flex-col lg:flex-row h-[160px] 3xl:h-[218px]">
       {/* 1st col */}
       <div className="lg:border-r-2 flex flex-col justify-center items-center relative lg:px-12 3xl:px-16 mb-8 lg:mb-0">
-        <img
-          src="/"
-          className="h-[50px] 3xl:h-[75px] max-w-[150px] 3xl:max-w-[200px] object-contain"
-          alt=""
-        />
+          <img
+                src="https://zimopro.com/assets/temp/agents_logos/Sotherbys.svg"
+                className={clsx(
+                  "h-[50px] 3xl:h-[75px] max-w-[150px] 2xl:max-w-[200px] object-contain",
+                  { "invert": theme === "light" } // Apply invert filter in dark mode
+                )} 
+                alt="Agent Logo"
+              />
       </div>
       {/* 2nd col */}
       <div className="lg:pl-12 3xl:pl-16 price-card">

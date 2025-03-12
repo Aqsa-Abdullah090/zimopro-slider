@@ -16,9 +16,9 @@ function FooterPricing() {
       <img
         src="https://zimopro.com/assets/temp/agents_logos/Sotherbys.svg"
         className={clsx(
-          "h-[50px] 3xl:h-[75px] max-w-[200px] object-contain",
+          "h-[50px] 3xl:h-[75px] max-w-[150px] 2xl:max-w-[200px] object-contain",
           { "invert": theme === "light" } // Apply invert filter in dark mode
-        )}
+        )} 
         alt="Agent Logo"
       />
 
