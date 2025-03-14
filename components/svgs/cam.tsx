@@ -26,7 +26,7 @@ function CamSvg({ className }: Props) {
           <g
             id="Group_33683"
             data-name="Group 33683"
-            clip-path="url(#clip-path)"
+            clipPath="url(#clip-path)"
           >
             <path
               id="Path_45981"
@@ -46,7 +46,7 @@ function CamSvg({ className }: Props) {
           <g
             id="Group_33685"
             data-name="Group 33685"
-            clip-path="url(#clip-path)"
+            clipPath="url(#clip-path)"
           >
             <path
               id="Path_45983"
